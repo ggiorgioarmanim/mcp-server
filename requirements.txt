@@ -90,8 +90,6 @@ python-dateutil
 python-dotenv==1.2.1
 python-json-logger==4.0.0
 python-multipart==0.0.20
-pywin32
-pywin32-ctypes==0.2.3
 PyYAML==6.0.3
 pyzmq
 qdrant-client==1.16.2
